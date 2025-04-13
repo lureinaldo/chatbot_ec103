@@ -8,6 +8,3 @@ sentence-transformers
 PyPDF2
 openai
 pypdf
-langchain_huggingface
-hf_xet
-huggingface_hub[hf_xet]
