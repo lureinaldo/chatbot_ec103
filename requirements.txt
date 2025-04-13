@@ -3,8 +3,8 @@ langchain
 langchain-community
 langchain-openai
 langchain-core
-chromadb
+faiss-cpu
 sentence-transformers
 PyPDF2
 openai
-pypdf
+pypdf	
